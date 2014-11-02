@@ -1,0 +1,5 @@
+{
+  "route_table_id": "ROUTE_TABLE_ID",
+  "vip": "10.10.10.10/32",
+  "tag": "ROUTE_TABLE_TAG"
+}
